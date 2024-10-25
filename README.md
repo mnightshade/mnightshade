@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Looking for new tasks and opportunities. Beginner Data Analyst.
+Looking for new tasks and opportunities. Studying Data Analytics.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [t.me/mhshabalov](mailto:t.me/mhshabalov)
