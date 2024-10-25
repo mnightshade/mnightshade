@@ -5,6 +5,7 @@ Data Analyst
 ------------
 
 Looking for new tasks and opportunities. Studying Data Analytics.
+You can find my resume in my Repository
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [t.me/mhshabalov](mailto:t.me/mhshabalov)
